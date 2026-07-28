@@ -2,6 +2,8 @@
 
 I build developer tools and AI-assisted creator workflows that make complex systems easier to understand, debug, and ship.
 
+🌐 I write at [blog.loupengju.cc](https://blog.loupengju.cc).
+
 ## What I'm working on
 
 - 🔎 Tracing React UI behavior from rendered interfaces back to source code, state, stores, and network data.
