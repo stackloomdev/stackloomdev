@@ -8,7 +8,7 @@ I build **developer tools**, **AI-assisted creator workflows**, and **interactiv
 
 做让复杂问题更清晰的工具，也做值得探索的网页体验。
 
-**[Read my blog ↗](https://blog.loupengju.cc)** &nbsp; · &nbsp; [Explore the projects](#selected-work) &nbsp; · &nbsp; [Visit the creative lab](#creative-lab)
+**[Read my blog ↗](https://blog.stackloom.org)** &nbsp; · &nbsp; [Explore the projects](#selected-work) &nbsp; · &nbsp; [Visit the creative lab](#creative-lab)
 
 ## Selected work
 
@@ -90,7 +90,7 @@ The browser is also a place to play. I explore atmosphere, interaction, and game
 
 ---
 
-**Notes from the workbench** — I write at **[blog.loupengju.cc ↗](https://blog.loupengju.cc)**.<br />
+**Notes from the workbench** — I write at **[blog.stackloom.org ↗](https://blog.stackloom.org)**.<br />
 Questions or ideas about a project? Its repository is a good place to start.
 
 <sub>Built with curiosity. Refined through use.</sub>
