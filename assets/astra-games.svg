@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-label="WEB EXPERIENCES"><title>WEB EXPERIENCES</title><rect width="640" height="280" rx="14" fill="#0d1524"/><rect x=".5" y=".5" width="639" height="279" rx="14" fill="none" stroke="#28354a"/><text x="28" y="38" fill="#7daeff" font-family="SFMono-Regular,Consolas,monospace" font-size="13">04</text><text x="65" y="38" fill="#96a8c5" font-family="SFMono-Regular,Consolas,monospace" font-size="13">WEB EXPERIENCES</text>
+<text x="31" y="103" fill="#e9edff" font-family="Avenir Next,Segoe UI,sans-serif" font-size="29" font-weight="600">One catalog.</text><text x="31" y="141" fill="#a9b4fb" font-family="Avenir Next,Segoe UI,sans-serif" font-size="29" font-weight="600">Twelve languages.</text>
+<text x="32" y="194" fill="#92a2be" font-family="SFMono-Regular,Consolas,monospace" font-size="15">EN / 中文 / 日本語</text><text x="32" y="223" fill="#92a2be" font-family="SFMono-Regular,Consolas,monospace" font-size="14">Next.js · i18n</text>
+<g transform="translate(360 76)"><rect width="245" height="163" rx="10" fill="#151e34" stroke="#3f486b"/><path d="M0 31H245" stroke="#3f486b"/>
+<circle cx="17" cy="15" r="4" fill="#9aa7ee"/><path d="M32 15H90" stroke="#596685"/><rect x="168" y="8" width="61" height="15" rx="4" fill="#334168"/>
+<rect x="14" y="46" width="104" height="48" rx="5" fill="#243d50"/><path d="M27 80L47 58L68 81L87 64L105 81" stroke="#6c9dba" fill="none"/>
+<rect x="128" y="46" width="104" height="48" rx="5" fill="#37324c"/><circle cx="179" cy="70" r="14" fill="none" stroke="#a494c0"/><path d="M163 82L197 59" stroke="#a494c0"/>
+<rect x="14" y="104" width="104" height="43" rx="5" fill="#2d364c"/><path d="M30 138V117H50V138M60 138V123H80V138M87 138V112H103V138" fill="#7883ae"/>
+<rect x="128" y="104" width="104" height="43" rx="5" fill="#303d40"/><path d="M143 136L163 115L185 136L207 115L221 131" stroke="#84aaa7" fill="none"/>
+</g></svg>

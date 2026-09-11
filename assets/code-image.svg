@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="280" viewBox="0 0 640 280" role="img" aria-label="CONTENT TOOLING"><title>CONTENT TOOLING</title><rect width="640" height="280" rx="14" fill="#0d1524"/><rect x=".5" y=".5" width="639" height="279" rx="14" fill="none" stroke="#28354a"/><text x="28" y="38" fill="#7daeff" font-family="SFMono-Regular,Consolas,monospace" font-size="13">03</text><text x="65" y="38" fill="#96a8c5" font-family="SFMono-Regular,Consolas,monospace" font-size="13">CONTENT TOOLING</text>
+<rect x="30" y="71" width="225" height="167" rx="9" fill="#111c2e" stroke="#334156"/>
+<text x="49" y="99" fill="#899bb8" font-family="SFMono-Regular,Consolas,monospace" font-size="13">notes.md</text><text x="49" y="136" fill="#dcb685" font-family="SFMono-Regular,Consolas,monospace" font-size="15">&#96;&#96;&#96;typescript</text><text x="49" y="166" fill="#a3b9df" font-family="SFMono-Regular,Consolas,monospace" font-size="16">const idea =</text><text x="49" y="191" fill="#a3b9df" font-family="SFMono-Regular,Consolas,monospace" font-size="15">  "make it clear";</text><text x="49" y="217" fill="#dcb685" font-family="SFMono-Regular,Consolas,monospace" font-size="15">&#96;&#96;&#96;</text>
+<path d="M270 155H318M311 148L319 155L311 162" fill="none" stroke="#dcb685" stroke-width="2"/>
+<rect x="336" y="69" width="274" height="173" rx="12" fill="#3b302a"/>
+<rect x="351" y="85" width="244" height="142" rx="8" fill="#182230" stroke="#756051"/>
+<g fill="#b28f70"><circle cx="367" cy="102" r="3"/><circle cx="378" cy="102" r="3"/><circle cx="389" cy="102" r="3"/></g>
+<text x="369" y="147" fill="#9abaff" font-family="SFMono-Regular,Consolas,monospace" font-size="17">const idea =</text><text x="369" y="178" fill="#e3c49e" font-family="SFMono-Regular,Consolas,monospace" font-size="16">  "make it clear";</text><text x="511" y="213" fill="#b69d83" font-family="SFMono-Regular,Consolas,monospace" font-size="12">.png</text>
+</svg>
