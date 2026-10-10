@@ -66,7 +66,7 @@ Practical tools for everyday engineering, with room for creative exploration.
 
 The browser is also a place to play. I explore atmosphere, interaction, and game systems through small playable worlds.
 
-<a href="https://silent-meridian.stackloom.org/">
+<a href="https://silent-meridian.pjstack.dev/">
   <img src="https://raw.githubusercontent.com/stackloomdev/silent-meridian/main/docs/screenshots/depth-observatory.png" width="100%" alt="Silent Meridian screenshot: a brass mechanism beneath the moonlit dome of an observatory." />
 </a>
 
@@ -74,9 +74,9 @@ The browser is also a place to play. I explore atmosphere, interaction, and game
 
 | World | What you'll find | Explore |
 | :--- | :--- | :--- |
-| **[Silent Meridian · 静默子午线](https://github.com/stackloomdev/silent-meridian)** | An atmospheric puzzle game. Shift between the Present and its Echo across four chapters and thirteen puzzles. | [Play ↗](https://silent-meridian.stackloom.org/) |
+| **[Silent Meridian · 静默子午线](https://github.com/stackloomdev/silent-meridian)** | An atmospheric puzzle game. Shift between the Present and its Echo across four chapters and thirteen puzzles. | [Play ↗](https://silent-meridian.pjstack.dev/) |
 | **[Last Beacon · 最后的灯塔](https://github.com/stackloomdev/last-beacon)** | An isometric island defense game. Connect the power grid, build defenses, and keep the lighthouse alive. | [Play ↗](https://last-beacon.loupengju.cc/) |
-| **[Ink Blade · 墨刃](https://github.com/stackloomdev/ink-blade)** | An ink-inspired action prototype built with Three.js and WebGL 2. Combos, parries, and a rain-soaked bamboo forest. | [Play ↗](https://ink-blade.stackloom.org/) |
+| **[Ink Blade · 墨刃](https://github.com/stackloomdev/ink-blade)** | An ink-inspired action prototype built with Three.js and WebGL 2. Combos, parries, and a rain-soaked bamboo forest. | [Play ↗](https://ink-blade.pjstack.dev/) |
 
 ## Tools & approach
 
